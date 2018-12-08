@@ -1,0 +1,26 @@
+{
+  "name": "h21-map-event-wrapper-baidu",
+  "version": "1.0.5",
+  "description": "A library of Baidu Map JS API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/novakand/h21-map-event-wrapper-baidu"
+  },
+  "keywords": [
+    "baidu",
+    "baidu-map",
+    "infobox",
+    "angular",
+    "event-wrapper"
+  ],
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}

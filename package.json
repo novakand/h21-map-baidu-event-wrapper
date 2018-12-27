@@ -1,5 +1,5 @@
 {
-  "name": "@h21-map/event-wrapper-baidu",
+  "name": "@h21-map/baidu-event-wrapper",
   "version": "1.0.6",
   "scope":"@h21-map",
   "description": "A library of Baidu Map JS API",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/novakand/h21-map-event-wrapper-baidu"
+    "url": "git+https://github.com/novakand/h21-map-baidu-event-wrapper"
   },
   "keywords": [
     "baidu",
